@@ -1,0 +1,25 @@
+{
+  "name": "study-nodejs-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhowArenas/study-nodejs-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "JhowArenas <jonat.arenas@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhowArenas/study-nodejs-puppeteer/issues"
+  },
+  "homepage": "https://github.com/JhowArenas/study-nodejs-puppeteer#readme"
+}
